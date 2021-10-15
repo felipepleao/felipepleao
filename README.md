@@ -6,7 +6,7 @@
 - 🌱 Estudando Python
 
 <div align="center">
-  <a href="https://github.com/cr4wz">
+  <a href="https://github.com/felipepleao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cr4wz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr4wz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -15,7 +15,7 @@
 ## Tecnologias que eu uso no meu dia
  
   
-  <img align="center" alt="cr4wz-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="felipepleao-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   
 </div>
   
