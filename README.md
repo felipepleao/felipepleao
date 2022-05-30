@@ -2,11 +2,11 @@
 
 ## 🚀 Sobre mim:
 
-- 🎓 Graduado em Engenharia Civil
-- 📕 Cursando <b>Segurança da Informação</b> pelo <b>Senac<b/>
+- 🎓 Graduado em <b>Engenharia Civil</b>
+- 📕 Cursando <b>Segurança da Informação</b> pelo <b>Senac</b>
 - 🎓 Transição de <b>Engenharia Civil</b> para <b>Desenvolvimento Web</b>
 - 📚 Estudando e aprimorando <b>HTML & CSS , JavaScript e Python</b>
-- 💻 Formação FullStack pela Ímã Learning Place 
+- 💻 Formação <b>FullStack</b> pela <b>Ímã Learning Place</b> 
   
 
 <div align="center">
