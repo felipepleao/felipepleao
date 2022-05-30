@@ -2,9 +2,12 @@
 
 ## 🚀 Sobre mim:
 
-- 🎓 Transição de Engenharia Civil para Desenvolvimento Web
+- 🎓 Graduado em Engenharia Civil
+- 📕 Cursando <b>Segurança da Informação</b> pelo <b>Senac<b/>
+- 🎓 Transição de <b>Engenharia Civil</b> para <b>Desenvolvimento Web</b>
 - 📚 Estudando e aprimorando <b>HTML & CSS , JavaScript e Python</b>
-- .💻
+- 💻 Formação FullStack pela Ímã Learning Place 
+  
 
 <div align="center">
   <a href="https://github.com/felipepleao">
