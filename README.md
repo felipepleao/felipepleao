@@ -2,8 +2,9 @@
 
 ## 🚀 Sobre mim:
 
-- 🔭 Cursando Segurança da Informação
-- 🌱 Estudando Python
+- 🎓 Transição de Engenharia Civil para Desenvolvimento Web
+- 📚 Estudando e aprimorando <b>HTML & CSS, JavaScript e Python</b>
+- .💻
 
 <div align="center">
   <a href="https://github.com/felipepleao">
