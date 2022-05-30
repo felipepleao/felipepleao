@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim:
 
 - 🎓 Transição de Engenharia Civil para Desenvolvimento Web
-- 📚 Estudando e aprimorando <b>HTML & CSS, JavaScript e Python</b>
+- 📚 Estudando e aprimorando <b><font color="#FF4500">HTML</font> & <font color="#00BFFF">CSS</font>, <font color="#FFFF00">JavaScript</font> e Python</b>
 - .💻
 
 <div align="center">
