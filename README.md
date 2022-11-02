@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Felipe Leão 😊
-![6696998](https://user-images.githubusercontent.com/87910555/171054170-a44884b8-3f43-43b4-847c-2bee65a40813.jpg)
+![6696998]([https://user-images.githubusercontent.com/87910555/171054170-a44884b8-3f43-43b4-847c-2bee65a40813.jpg](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
 ## ♟ Sobre mim:
 
 - 🛠  Atualmente estagiando como <b>Suporte de T.I</b>
