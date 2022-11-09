@@ -2,10 +2,10 @@
 ![5070f9e7af565d1d16a3edfd7f53cd1e](https://user-images.githubusercontent.com/87910555/199591593-9a8aa9c2-cb79-4bc9-accd-ea0168e33c79.png)
 ## ♟ Sobre mim:
 
-- 🛠  Atualmente estagiando como <b>Suporte de T.I</b>
 - 🎓 Graduado em <b>Engenharia Civil</b>
 - 📕 Cursando <b>Segurança da Informação</b> pelo <b>Senac</b>
 - 🎓 Transição de <b>Engenharia Civil</b> para <b>Desenvolvimento Web</b>
+- 🛠  Atualmente estagiando como <b>Suporte de T.I</b>
 - 📚 Estudando e aprimorando <b>HTML & CSS e JavaScript</b>
 
 ###
