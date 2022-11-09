@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6edf9f9-ae13-4fc9-8dc0-f3de20871dfc/xero-code.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221020%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221020T224938Z&X-Amz-Expires=86400&X-Amz-Signature=77832550ba36ada2bfe44f09d402d9233a12d994479fd91c68a56d3b7094de81&X-Amz-SignedHeaders=host&x-id=GetObject"  />
+<img align="right" height="150" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6edf9f9-ae13-4fc9-8dc0-f3de20871dfc/xero-code.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T103337Z&X-Amz-Expires=86400&X-Amz-Signature=ffee6470006befb11e01009c7421969d6e319734a8e3f525cd26ec477a35530c&X-Amz-SignedHeaders=host&x-id=GetObject"  />
 
 ###
 
