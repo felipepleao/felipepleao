@@ -48,3 +48,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050A0E&height=120&section=footer"/>
+
