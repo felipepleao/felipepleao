@@ -1,5 +1,3 @@
-![cut](https://user-images.githubusercontent.com/87910555/215234755-2043a960-cc0e-42bb-a80e-714a2d71043b.png)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050A0E&height=120&section=header&text=Felipe+Leão&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+perfil;Me+chamo+Felipe+Leão;Sou+desenvolvedor+web!)](https://git.io/typing-svg)
