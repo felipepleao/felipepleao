@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" />
+<img align="right" height="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" />
 
 ### Habilidades:
 
