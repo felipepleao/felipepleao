@@ -14,8 +14,8 @@
 ###
 </br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepleao&show_icons=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117" alt="Felipe Leão" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepleao&layout=compact&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117" />
+  <img width="495px" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepleao&show_icons=true&count_private=true&hide_border=true&title_color=F7F7F7&icon_color=FF003C&text_color=00F0FF&bg_color=050A0E" alt="Felipe Leão" /> 
+  <img width="495px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepleao&layout=compact&hide_border=true&title_color=F7F7F7&text_color=00F0FF&bg_color=050A0E" />
 </div>
 </br>
 
