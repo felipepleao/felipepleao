@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Blender+Pro&weight=500&size=30&duration=3500&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+seja+Bem-Vindo+ao+meu+perfil;Me+chamo+Felipe+Le%C3%A3o;Sou+Desenvolvedor+Web!)](https://git.io/typing-svg)
 
@@ -56,5 +56,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
