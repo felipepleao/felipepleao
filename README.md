@@ -8,7 +8,7 @@
 - 🎓 Transição de <b>Engenharia Civil</b> para <b>Desenvolvimento Web</b>
 - 🎓 Graduado em <b>Engenharia Civil</b>
 - 📕 Graduado em <b>Segurança da Informação</b> pelo <b>Senac</b>
-- 📚 Estudando e aprimorando <b>HTML & CSS, JavaScript e React</b>
+- 📚 Conhecimento em Front-end <b>HTML & CSS, JavaScript e React</b>
 
 ###
 </br>
